@@ -1,4 +1,0 @@
-This file is for testing purposes.
-
-One line added.
-
